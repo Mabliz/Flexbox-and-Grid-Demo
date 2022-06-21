@@ -1,1 +1,1 @@
-https://mabliz.github.io/Flexbox-and-Grid-Demo/
+https://mabliz.github.io/zuri-training/
